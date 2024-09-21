@@ -4795,3 +4795,6 @@
 #include "mojave\turfs\wall.dm"
 #include "mojave\turfs\window.dm"
 // END_INCLUDE
+
+// Celadon-ADD - Внедрение модульности
+#include "mod_celadon\mod_celadon.dme"
